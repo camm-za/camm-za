@@ -17,6 +17,7 @@
 </div>
 
 
+# Discord
 
 
 [![114ms's Discord status](https://dsc-readme.tsuni.dev/api/user/1400899233074249728?theme=nitroLight&primaryColor=8180ff&accentColor=fe80c0&width=512&font=jellybean)](https://github.com/the-snesler/discord-github-preview)
